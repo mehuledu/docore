@@ -1,0 +1,14 @@
+/home/ubuntu/core-api/bin/Debug/netcoreapp2.1/core-api.deps.json
+/home/ubuntu/core-api/bin/Debug/netcoreapp2.1/core-api.runtimeconfig.json
+/home/ubuntu/core-api/bin/Debug/netcoreapp2.1/core-api.runtimeconfig.dev.json
+/home/ubuntu/core-api/bin/Debug/netcoreapp2.1/core-api.dll
+/home/ubuntu/core-api/bin/Debug/netcoreapp2.1/core-api.pdb
+/home/ubuntu/core-api/obj/Debug/netcoreapp2.1/core-api.csprojAssemblyReference.cache
+/home/ubuntu/core-api/obj/Debug/netcoreapp2.1/core-api.csproj.CoreCompileInputs.cache
+/home/ubuntu/core-api/obj/Debug/netcoreapp2.1/core-api.RazorAssemblyInfo.cache
+/home/ubuntu/core-api/obj/Debug/netcoreapp2.1/core-api.RazorAssemblyInfo.cs
+/home/ubuntu/core-api/obj/Debug/netcoreapp2.1/core-api.AssemblyInfoInputs.cache
+/home/ubuntu/core-api/obj/Debug/netcoreapp2.1/core-api.AssemblyInfo.cs
+/home/ubuntu/core-api/obj/Debug/netcoreapp2.1/core-api.RazorTargetAssemblyInfo.cache
+/home/ubuntu/core-api/obj/Debug/netcoreapp2.1/core-api.dll
+/home/ubuntu/core-api/obj/Debug/netcoreapp2.1/core-api.pdb
