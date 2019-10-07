@@ -15,3 +15,6 @@ WORKDIR /app
 COPY --from=build /app/out .
 
 ENTRYPOINT ["dotnet","core-api.dll"]
+
+##
+## docker run --name core-api --env ASPNETCORE_ENVIRONMENT=Development -p 80:80 core-api:latest
